@@ -135,3 +135,5 @@ This project showcases my ability to work in cross‑functional teams, drive pro
 
 ---
 
+**AI Workflow Note:**  
+Claude assisted in segmenting risk clusters, validating SQL transformations, and drafting early MVP logic for Finguard. This AI‑augmented workflow improved analysis speed, strengthened feature definitions, and enhanced cross‑functional communication with PM, Engineering, Marketing, and Design teams.
