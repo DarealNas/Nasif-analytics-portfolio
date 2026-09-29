@@ -42,7 +42,8 @@ A full profitability investigation revealing **566K in revenue lost to discounts
 - Delivered actionable pricing & inventory recommendations  
 
 👉 **Read the full case study:**  
-`business-performance/superstore-analysis.md`
+https://github.com/DarealNas/Nasif-analytics-portfolio/blob/main/business-performance/superstore-analysis.md
+
 
 ---
 
@@ -61,7 +62,8 @@ Analyzed 32,424 users and built **Finguard**, a 3‑feature MVP tackling:
 - Translating data into product features  
 
 👉 **Read the full case study:**  
-`business-performance/fintech-analysis.md`
+https://github.com/DarealNas/Nasif-analytics-portfolio/blob/main/business-performance/fintech-analysis.md
+
 
 ---
 
@@ -75,7 +77,8 @@ Group project analyzing 478 students to identify the strongest predictors of aca
 - Delivered actionable school-wide recommendations  
 
 👉 **Read the full case study:**  
-`business-performance/student-performance-analysis.md`
+https://github.com/DarealNas/Nasif-analytics-portfolio/blob/main/business-performance/student-performance-analysis.md
+
 
 ---
 
