@@ -164,3 +164,5 @@ This analysis provides a clear, data‑driven understanding of Superstore’s pr
 
 ---
 
+**AI Workflow Note:**  
+For this project, I used Claude within VS Code to validate DAX logic, refine measure descriptions, and accelerate dashboard structuring. AI assistance reduced repetitive development time and improved the clarity of profitability insights.
