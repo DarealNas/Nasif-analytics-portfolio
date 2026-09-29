@@ -1,13 +1,13 @@
 ![Nasif Analytics Banner](assets/profile-banner.png)
 
-# Nasif Abbas Analytics Portfolio  — Data Analyst | Business Intelligence | Research Scientist
+# Nasif Abbas Analytics Portfolio — Data Analyst | Business Intelligence | AI‑Augmented Analytics | Research Scientist
 
 
 ---
 
 
 ### Riyadh, Saudi Arabia  
-### Turning Complex Data Into Clear, Actionable Insights | Excel • Power BI • Tableau • SQL • Python • Dashboard Storytelling
+### Turning Complex Data Into Clear, Actionable Insights | Excel • Power BI • Tableau • SQL • Python • Dashboard Storytelling • Generative AI‑assisted workflows•
 
 ---
 
@@ -108,6 +108,53 @@ Group project analyzing 478 students to identify the strongest predictors of aca
 - GitHub  
 - Excel  
 - Power Query  
+
+---
+
+## 🤖 AI‑Augmented Analytics & Toolchain Integration
+
+I use Generative AI as a force multiplier across my analytics workflow — accelerating data preparation, optimizing DAX logic, improving code quality, and scaling analytical tasks while maintaining full human‑in‑the‑loop oversight. My approach blends traditional BI skills with modern AI‑assisted development to deliver faster, clearer, and more reliable insights.
+
+### 🔹 Claude + Power BI (via VS Code)
+I integrate Claude directly with my Power BI models through VS Code, enabling AI to interact with my datasets and semantic models. This allows me to:
+- read and interpret table structures and relationships  
+- clean and transform data with AI‑guided suggestions  
+- generate calculated columns and DAX measures  
+- write clear measure descriptions and documentation  
+- validate relationships and recommend model improvements  
+- accelerate dashboard planning and visual structuring  
+
+This workflow reduces repetitive development time and improves the consistency of my BI models.
+
+### 🔹 VS Code + Python + Jupyter (AI‑assisted development)
+I use Claude, Grok, Perplexity, DeepSeek, ChatOn, and Copilot to enhance my Python and Jupyter workflows by:
+- accelerating exploratory data analysis (EDA)  
+- engineering robust predictive scripts with AI‑guided refinement  
+- debugging and optimizing Python code  
+- improving visualization logic and narrative clarity  
+- validating assumptions and improving feature selection  
+
+My machine learning and EDA work is **AI‑assisted**, not fully automated pipelines — I remain responsible for interpretation, validation, and insight generation.
+
+### 🔹 SQL, Excel & Emerging Integrations
+I am actively expanding my AI‑assisted toolchain to:
+- draft and optimize SQL queries  
+- clean and transform Excel datasets  
+- prototype early automation workflows across BI, SQL, and Python  
+
+These integrations help reduce manual overhead and improve analytical throughput without overstating automation capabilities.
+
+### 🔹 How I Use AI (Business Value Focus)
+Across all tools, my AI‑augmented workflow helps me:
+- reduce data preparation time  
+- improve data integrity and model consistency  
+- scale complex DAX and SQL logic  
+- accelerate dashboard development  
+- enhance storytelling and executive communication  
+- maintain high analytical quality with faster iteration cycles  
+
+AI does not replace my analytical thinking — it amplifies it.  
+This hybrid workflow reflects the modern reality of data analytics and positions me as a future‑ready analyst capable of leveraging advanced tools responsibly and effectively.
 
 ---
 
