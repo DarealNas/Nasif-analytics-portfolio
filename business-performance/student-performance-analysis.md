@@ -163,7 +163,12 @@ This case study highlights my ability to:
 - work in analytical teams  
 - extract actionable insights  
 - communicate findings clearly  
-- support data-driven decision-making.  
+- support data-driven decision-making.
+
+---
+**AI Workflow Note:**  
+AI tools supported exploratory data analysis, feature selection, and narrative structuring. Claude helped refine attendance‑based predictors, validate segmentation logic, and improve the clarity of executive recommendations for school leadership.
+
 
 
 
